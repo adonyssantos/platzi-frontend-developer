@@ -1,0 +1,19 @@
+p {
+  color: yellowgreen;
+}
+
+p:first-child {
+  color: yellow;
+}
+
+p:last-child {
+	color: violet;
+}
+
+p:nth-child(2n) {
+	color: turquoise;
+}
+
+p:nth-child(2n+1) {
+	color: tomato;
+}
