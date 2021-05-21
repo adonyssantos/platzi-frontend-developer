@@ -153,3 +153,11 @@ Todos los elementos de HTML tienen un modelo de caja y esta compuesto por 5 elem
 }
 
 ```
+
+## Colors
+
+**Some tools:**
+
+- [picular.co](https://picular.co/Video)
+- [paletton.com](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+- [coolors.co](https://coolors.co/001514-fbfffe-6b0504-a3320b-e6af2e)
