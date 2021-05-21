@@ -36,3 +36,22 @@ You'll only need to add the following lines of code to your site:
 ```
 
 ![Dynamic Favicons](https://res.cloudinary.com/practicaldev/image/fetch/s--LPeNe99V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/gnyp0jrbbj6hoxzpdq53.png)
+
+## Semantics
+
+```html
+<header>
+		<a href="#">Home</a>
+		<a href="#">Blog</a>
+		<a href="#">Contact</a>
+	</header>
+	<section>
+		<h1>This is a title</h1>
+		<p>This is a paragraph</p>
+		<img src="#" alt="">
+		<em>Emphasis</em>
+		<i>Italic</i>
+	</section>
+	<aside></aside>
+	<footer></footer>
+```
