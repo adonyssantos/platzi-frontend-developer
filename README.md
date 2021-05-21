@@ -166,20 +166,20 @@ Todos los elementos de HTML tienen un modelo de caja y esta compuesto por 5 elem
 
 ## Fonts
 
-[fonts.google.com](https://fonts.google.com/)
+- [fonts.google.com](https://fonts.google.com/)
  
 ## Transition
 
-[www.w3schools.com/css/css3_transitions.asp](https://www.w3schools.com/css/css3_transitions.asp)
+- [www.w3schools.com/css/css3_transitions.asp](https://www.w3schools.com/css/css3_transitions.asp)
 
-[developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+- [developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 
-[css-tricks.com/almanac/properties/t/transition/](https://css-tricks.com/almanac/properties/t/transition/)
+- [css-tricks.com/almanac/properties/t/transition/](https://css-tricks.com/almanac/properties/t/transition/)
  
 ## Animation
 
-[www.w3schools.com/css/css3_animations.asp](https://www.w3schools.com/css/css3_animations.asp)
+- [www.w3schools.com/css/css3_animations.asp](https://www.w3schools.com/css/css3_animations.asp)
 
-[developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+- [developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 
-[css-tricks.com/almanac/properties/a/animation](https://css-tricks.com/almanac/properties/a/animation/)
+- [css-tricks.com/almanac/properties/a/animation](https://css-tricks.com/almanac/properties/a/animation/)
