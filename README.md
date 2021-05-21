@@ -54,4 +54,31 @@ You'll only need to add the following lines of code to your site:
 	</section>
 	<aside></aside>
 	<footer></footer>
+
+```
+
+## Pseudo-clases
+
+```css
+p {
+  color: yellowgreen;
+}
+
+p:first-child {
+  color: yellow;
+}
+
+p:last-child {
+	color: violet;
+}
+
+p:nth-child(2n) {
+	color: turquoise;
+}
+
+p:nth-child(2n+1) {
+	color: tomato;
+}
+
+
 ```
