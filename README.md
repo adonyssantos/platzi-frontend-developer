@@ -132,3 +132,24 @@ p:nth-child(2n + 1) {
 - [emojikeyboard.org](https://emojikeyboard.org/)
 - [developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 - [https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+
+## Box model
+
+Todos los elementos de HTML tienen un modelo de caja y esta compuesto por 5 elementos: contenido, padding, border, outline, margin.
+
+![Box model](https://cms-assets.tutsplus.com/uploads/users/30/posts/24126/image/boxmodel6.svg)
+
+```css
+.box {
+  background-color: orange;
+  width: 40px;
+  height: 40px;
+  padding: 40px;
+  border: 4px solid teal;
+  box-sizing: border-box;
+  outline: none;
+  margin: 40px;
+  content: "";
+}
+
+```
