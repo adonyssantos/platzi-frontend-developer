@@ -168,7 +168,7 @@ Todos los elementos de HTML tienen un modelo de caja y esta compuesto por 5 elem
 
 [fonts.google.com](https://fonts.google.com/)
  
-# Transition
+## Transition
 
 [www.w3schools.com/css/css3_transitions.asp](https://www.w3schools.com/css/css3_transitions.asp)
 
@@ -176,7 +176,7 @@ Todos los elementos de HTML tienen un modelo de caja y esta compuesto por 5 elem
 
 [css-tricks.com/almanac/properties/t/transition/](https://css-tricks.com/almanac/properties/t/transition/)
  
-# Animation
+## Animation
 
 [www.w3schools.com/css/css3_animations.asp](https://www.w3schools.com/css/css3_animations.asp)
 
