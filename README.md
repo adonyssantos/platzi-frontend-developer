@@ -1,5 +1,11 @@
 # Frontend Developer
 
+## Basic Concepts
+
+- Document Object Model (DOM): [developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- CSS Object Model (CSSOM): [developer.mozilla.org/en-US/docs/Glossary/CSSOM](https://developer.mozilla.org/en-US/docs/Glossary/CSSOM)
+- Render-tree Construction: [developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction)
+
 ## Favicon
 
 ### Favicon Generator
