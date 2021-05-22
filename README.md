@@ -20,6 +20,8 @@
 - CSS Object Model (CSSOM): [developer.mozilla.org/en-US/docs/Glossary/CSSOM](https://developer.mozilla.org/en-US/docs/Glossary/CSSOM)
 - Render-tree Construction: [developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction)
 
+![](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/images/render-tree-construction.png)
+
 ## Favicon
 
 ### Favicon Generator
