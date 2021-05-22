@@ -13,6 +13,9 @@
 - [Fonts](#fonts)
 - [Transition](#transition)
 - [Animation](#animation)
+- [Arquitectura CSS](#arquitectura-css)
+- [¿Qué son y para qué nos sirven las arquitecturas CSS?](#qué-son-y-para-qué-nos-sirven-las-arquitecturas-css)
+
 
 ## Basic Concepts
 
@@ -149,6 +152,7 @@ p:nth-child(2n + 1) {
 ```
 
 ### Some tools
+
 - [emojikeyboard.org](https://emojikeyboard.org/)
 - [developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 - [https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
@@ -171,7 +175,6 @@ Todos los elementos de HTML tienen un modelo de caja y esta compuesto por 5 elem
   margin: 40px;
   content: "";
 }
-
 ```
 
 ## Colors
@@ -187,7 +190,7 @@ Todos los elementos de HTML tienen un modelo de caja y esta compuesto por 5 elem
 ## Fonts
 
 - [fonts.google.com](https://fonts.google.com/)
- 
+
 ## Transition
 
 - [www.w3schools.com/css/css3_transitions.asp](https://www.w3schools.com/css/css3_transitions.asp)
@@ -195,7 +198,7 @@ Todos los elementos de HTML tienen un modelo de caja y esta compuesto por 5 elem
 - [developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 
 - [css-tricks.com/almanac/properties/t/transition/](https://css-tricks.com/almanac/properties/t/transition/)
- 
+
 ## Animation
 
 - [www.w3schools.com/css/css3_animations.asp](https://www.w3schools.com/css/css3_animations.asp)
@@ -203,3 +206,21 @@ Todos los elementos de HTML tienen un modelo de caja y esta compuesto por 5 elem
 - [developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 
 - [css-tricks.com/almanac/properties/a/animation](https://css-tricks.com/almanac/properties/a/animation/)
+
+## Arquitectura CSS
+
+### ¿Qué son y para qué nos sirven las arquitecturas CSS?
+
+#### Los objetivos son:
+
+- **Predecible:** Escribir reglas claras.
+- **Reutilizable:** No escribir código redundante.
+- **Mantenible:** Que sea fácil de leer y adaptarnos a los estandares.
+- **Escalable:** Que pueda crecer facilmente pero sin afectar el rendimiento.
+
+#### Buenas practicas
+
+- Establecer reglas para que el equipo se entienda.
+- Explicar la estructura base o dar los fundamentos del proyecto a un nuevo integrante.
+- Evitar hojas de estilo muy extensas.
+- Tener una buena documentación explicando ciertos aspectos del codigo.
