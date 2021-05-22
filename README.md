@@ -1,5 +1,19 @@
 # Frontend Developer
 
+## Table of contents
+
+- [Basic Concepts](#basic-concepts)
+- [Favicon](#favicon)
+  - [Favicon Generator](#favicon-generator)
+  - [Dynamic Favicons](#dynamic-favicons)
+- [Semantics](#semantics)
+- [Types of selectors, pseudo-classes and pseudo-elements](#types-of-selectors-pseudo-classes-and-pseudo-elements)
+- [Box model](#box-model)
+- [Colors](#colors)
+- [Fonts](#fonts)
+- [Transition](#transition)
+- [Animation](#animation)
+
 ## Basic Concepts
 
 - Document Object Model (DOM): [developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
