@@ -15,7 +15,7 @@
 - [Animation](#animation)
 - [Arquitectura CSS](#arquitectura-css)
 - [¿Qué son y para qué nos sirven las arquitecturas CSS?](#qué-son-y-para-qué-nos-sirven-las-arquitecturas-css)
-
+- [OOCSS, BEM, SMACSS, ITCSS y Atomic Design](#oocss-bem-smacss-itcss-y-atomic-design)
 
 ## Basic Concepts
 
@@ -224,3 +224,77 @@ Todos los elementos de HTML tienen un modelo de caja y esta compuesto por 5 elem
 - Explicar la estructura base o dar los fundamentos del proyecto a un nuevo integrante.
 - Evitar hojas de estilo muy extensas.
 - Tener una buena documentación explicando ciertos aspectos del codigo.
+
+### OOCSS, BEM, SMACSS, ITCSS y Atomic Design
+
+#### OOCSS (Object Oriented CSS)
+
+CSS Orientado a Objetos. Separa el diseño del contenido, así podemos reutilizar nuestro código.
+
+```css
+// ejemplo, en vez de para cada elemento una clase.
+.globalWidth {
+  width: 100%;
+}
+```
+
+**Referencias:** [www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
+
+#### BEM
+
+Block Element Modifier. Separa los elementos y los modificadores
+
+```css
+.header {
+} // bloque
+.header__button--red {
+} // block, element, modifier
+```
+
+**Referencias:** [getbem.com/introduction](http://getbem.com/introduction/)
+
+#### SMACSS
+
+Scalable and Modular Arquitecture for CSS. Arquitectura de css escalable y modular. PAra eso se realizan cinco pasos
+
+1. Dividir nuestro CSS en **Componentes Base**.
+2. Definir **Layout**: son los elementos que se utilizan solo una vez. ej. Footer, Header.
+3. Definir **Modulos**: son los componentes que se usan mas de una vez.
+4. Definir **Estados**: estos estados definen los cambios que existen en nuestros elementos/componentes. ej. Cambio de color cuando hacen hover, etc.
+5. Definir **Temas**: separar los temas y sus cambios _(no todas las librerias tienen temas)_.
+
+**Rerferencias:** [smacss.com](http://smacss.com/)
+
+#### ITCSS (Inverted Triangle CSS)
+
+**Triangulo Invertido de CSS:** Lo que nos indica esta metodologia es poder dividir todos nuestros archivos de css en ciertas partes para que no se mezclen.
+
+Triangulo invertido, desde arriba hacia abajo:
+
+- Ajustes
+- Herramientas
+- Generico
+- Elementos
+- Objetos
+- Componentes
+- Utilidades
+
+**Rerferencias:** [www.xfive.co/blog/itcss-scalable-maintainable-css-architecture](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
+
+#### Atomic Design
+
+Esta basada en la quimica.
+
+![Periodic Table of the Elements](https://bradfrost.com/wp-content/uploads/2012/11/Screen-Shot-2012-11-13-at-5.15.05-PM.png)
+
+Sedivide de la siguiente manera:
+
+_Atomos < Moleculas < Organismos < Templates < Paginas_
+
+**Rerferencias:** [bradfrost.com/blog/post/atomic-web-design](https://bradfrost.com/blog/post/atomic-web-design/)
+
+La eleccion de la metodologia depende del proyecto y del equipo
+
+**Especificidad:** son los elementos o clases con mayor peso que otros.
+
+**Nota**: No es tan buena practica usar `!important`
