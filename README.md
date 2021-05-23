@@ -17,7 +17,7 @@
 - [Animation](#animation)
 - [Arquitectura CSS](#arquitectura-css)
   - [¿Qué son y para qué nos sirven las arquitecturas CSS?](#qué-son-y-para-qué-nos-sirven-las-arquitecturas-css)
-    - [Los objetivos son:](#los-objetivos-son)
+    - [Los objetivos son](#los-objetivos-son)
     - [Buenas practicas](#buenas-practicas)
   - [OOCSS, BEM, SMACSS, ITCSS y Atomic Design](#oocss-bem-smacss-itcss-y-atomic-design)
     - [OOCSS (Object Oriented CSS)](#oocss-object-oriented-css)
