@@ -14,8 +14,9 @@
 - [Transition](#transition)
 - [Animation](#animation)
 - [Arquitectura CSS](#arquitectura-css)
-- [¿Qué son y para qué nos sirven las arquitecturas CSS?](#qué-son-y-para-qué-nos-sirven-las-arquitecturas-css)
-- [OOCSS, BEM, SMACSS, ITCSS y Atomic Design](#oocss-bem-smacss-itcss-y-atomic-design)
+  - [¿Qué son y para qué nos sirven las arquitecturas CSS?](#qué-son-y-para-qué-nos-sirven-las-arquitecturas-css)
+  - [OOCSS, BEM, SMACSS, ITCSS y Atomic Design](#oocss-bem-smacss-itcss-y-atomic-design)
+  - [Flexbox vs CSS Grid: ¿Cuál es la diferencia?](#flexbox-vs-css-grid-cuál-es-la-diferencia)
 
 ## Basic Concepts
 
@@ -300,3 +301,7 @@ La eleccion de la metodologia depende del proyecto y del equipo
 **Especificidad:** son los elementos o clases con mayor peso que otros.
 
 **Nota**: No es tan buena practica usar `!important`
+
+## Flexbox vs CSS Grid: ¿Cuál es la diferencia?
+
+[platzi.com/blog/flexbox-vs-css-grid-cual-es-la-diferencia](https://platzi.com/blog/flexbox-vs-css-grid-cual-es-la-diferencia/)
