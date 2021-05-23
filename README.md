@@ -8,6 +8,8 @@
   - [Dynamic Favicons](#dynamic-favicons)
 - [Semantics](#semantics)
 - [Types of selectors, pseudo-classes and pseudo-elements](#types-of-selectors-pseudo-classes-and-pseudo-elements)
+  - [Pseudo-clases](#pseudo-clases)
+  - [Some tools](#some-tools)
 - [Box model](#box-model)
 - [Colors](#colors)
 - [Fonts](#fonts)
@@ -15,7 +17,14 @@
 - [Animation](#animation)
 - [Arquitectura CSS](#arquitectura-css)
   - [¿Qué son y para qué nos sirven las arquitecturas CSS?](#qué-son-y-para-qué-nos-sirven-las-arquitecturas-css)
+    - [Los objetivos son:](#los-objetivos-son)
+    - [Buenas practicas](#buenas-practicas)
   - [OOCSS, BEM, SMACSS, ITCSS y Atomic Design](#oocss-bem-smacss-itcss-y-atomic-design)
+    - [OOCSS (Object Oriented CSS)](#oocss-object-oriented-css)
+    - [BEM](#bem)
+    - [SMACSS](#smacss)
+    - [ITCSS (Inverted Triangle CSS)](#itcss-inverted-triangle-css)
+    - [Atomic Design](#atomic-design)
   - [Flexbox vs CSS Grid: ¿Cuál es la diferencia?](#flexbox-vs-css-grid-cuál-es-la-diferencia)
 
 ## Basic Concepts
