@@ -27,6 +27,7 @@
     - [ITCSS (Inverted Triangle CSS)](#itcss-inverted-triangle-css)
     - [Atomic Design](#atomic-design)
   - [Flexbox vs CSS Grid: ¿Cuál es la diferencia?](#flexbox-vs-css-grid-cuál-es-la-diferencia)
+  - [CSS Grid](#css-grid)
 
 ## Basic Concepts
 
@@ -331,3 +332,7 @@ La eleccion de la metodologia depende del proyecto y del equipo
 ## Flexbox vs CSS Grid: ¿Cuál es la diferencia?
 
 [platzi.com/blog/flexbox-vs-css-grid-cual-es-la-diferencia](https://platzi.com/blog/flexbox-vs-css-grid-cual-es-la-diferencia/)
+
+## CSS Grid
+
+![](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202019-08-17%20a%20las%2021.30.58-b724dd11-7374-4f61-9d0b-5b905aa9b961.jpg)
