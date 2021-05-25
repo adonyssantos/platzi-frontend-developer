@@ -1,5 +1,9 @@
 # Frontend Developer
 
+El **Frontend** es la parte gráfica de una página web. Es la parte por donde el usuario va a interactuar.
+
+**Proyecto de este curso:** [adonyssantos.me/platzi-video/](http://adonyssantos.me/platzi-video/)
+
 ## Table of contents
 
 - [Basic Concepts](#basic-concepts)
